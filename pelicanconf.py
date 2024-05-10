@@ -2,12 +2,52 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'KMOL'
-SITENAME = '網際內容管理系統'
+AUTHOR = 'cd2024_2a'
+SITENAME = '2a cd2024 評分網誌'
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
 
 #PATH = 'markdown'
+
+# 開始將組員的個別網誌目錄納入分組倉儲中 and skip copying .md file under pages directory
+import os
+import shutil
+
+# Directories you want to include
+input_directories = ['markdown', 'g10/41123199/markdown']
+
+# Temporary directory to store combined Markdown files
+combined_directory = 'combined_markdown'
+
+# Create the combined directory if it doesn't exist
+if not os.path.exists(combined_directory):
+    os.makedirs(combined_directory)
+else:
+    # Clean the existing content of the combined directory
+    for root, dirs, files in os.walk(combined_directory):
+        for file in files:
+            os.remove(os.path.join(root, file))
+        for dir in dirs:
+            shutil.rmtree(os.path.join(root, dir))
+
+# Copy Markdown files from input directories to the combined directory
+for directory in input_directories:
+    for root, _, files in os.walk(directory):
+        for file in files:
+            if file.endswith('.md'):
+                # Check if the file is not under the "pages" subdirectory
+                if "pages" not in root.split(os.path.sep):
+                    source_file = os.path.join(root, file)
+                    destination_file = os.path.join(combined_directory, file)
+                    shutil.copy(source_file, destination_file)
+
+# Get the paths of the combined directories
+combined_paths = os.path.abspath(combined_directory)
+
+# Set the Pelican PATH to the combined directory
+PATH = combined_paths
+
+# 結束將組員的個別網誌目錄納入分組倉儲中
 
 #OUTPUT_PATH = 'blog'
 
