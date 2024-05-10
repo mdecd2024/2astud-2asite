@@ -1,0 +1,3 @@
+[submodule "g10"]
+	path = g10
+	url = https://github.com/mdecd2024/test-ag1.git
