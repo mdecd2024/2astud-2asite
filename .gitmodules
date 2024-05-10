@@ -4,3 +4,6 @@
 [submodule "g10"]
 	path = g10
 	url = https://github.com/mdecd2024/test-ag1.git
+[submodule "g2"]
+	path = g2
+	url = https://github.com/mdecd2024/2a-midag2
