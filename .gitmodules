@@ -7,3 +7,6 @@
 [submodule "g2"]
 	path = g2
 	url = https://github.com/mdecd2024/2a-midag2.git
+[submodule "g7"]
+	path = g7
+	url = https://github.com/mdecd2024/2a-midag7.git
