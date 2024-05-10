@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - w5</title><link href="./" rel="alternate"></link><link href="./feeds/w5.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T08:26:43+08:00</updated><entry><title>20240322w5 Spring 課程紀錄</title><link href="./20240322.html" rel="alternate"></link><published>2024-03-22T16:30:00+08:00</published><updated>2024-05-10T08:26:43+08:00</updated><author><name>41123129</name></author><id>tag:None,2024-03-22:./20240322.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程紀錄&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - w5</title><link href="./" rel="alternate"></link><link href="./feeds/w5.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T09:31:39+08:00</updated><entry><title>w5 課程</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T15:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;第五週&lt;/h1&gt;
+&lt;p&gt;教學內容為先前影片整理、分組網誌的統整與 NX 零組件繪圖.&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>W5</title><link href="./41123145-W5.html" rel="alternate"></link><published>2024-03-22T17:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-22:./41123145-W5.html</id><summary type="html">&lt;p&gt;W5內容&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W5內容&lt;/p&gt;
+
+&lt;h1&gt;將上字幕影片上傳到小組倉儲&lt;/h1&gt;
+&lt;p&gt;各組自行搜尋前面已經發布的教學影片上字幕
+&lt;a href="https://drive.google.com/file/d/110Z_ZOz3gKbFb_Rvw6_pUSkVQTGwMn87/view?usp=sharing"&gt;wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;說明如何將組員的個人倉儲納入分組倉儲成為子模組&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1QPYG2gUfQ9MOSGNInlEkQyyhuCktkxo_/view?usp=sharing"&gt;影片逐字稿&lt;/a&gt;&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>20240322w5 Spring 課程紀錄</title><link href="./20240322.html" rel="alternate"></link><published>2024-03-22T16:30:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123129</name></author><id>tag:None,2024-03-22:./20240322.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程紀錄&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程紀錄&lt;/p&gt;
 
 
@@ -7,20 +19,31 @@
 &lt;p&gt;上週各組分工將老師的教學影片上字幕及大綱後，這週將影片放進分組的靜態網站和網誌上&lt;/p&gt;
 &lt;p&gt;點這裡&amp;gt;&amp;gt; &lt;a href="https://drive.google.com/file/d/1nC4yt5ZCwxXlkaQEUJaDuckTLnfg-tD3/view?usp=sharing"&gt;影片連結&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;影片大綱：說明github實施強制帳戶啟用雙重認證，並教學如何啟用及注意事項&lt;/p&gt;
-&lt;p&gt;點這裡&amp;gt;&amp;gt; &lt;a href="https://drive.google.com/file/d/1rLWppQAdR5QJujmCf4a7DJLa2_BxBNpH/view?usp=sharing"&gt;逐字稿&lt;/a&gt;&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>W5</title><link href="./W5.html" rel="alternate"></link><published>2024-03-22T15:00:00+08:00</published><updated>2024-05-10T08:26:43+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-03-22:./W5.html</id><summary type="html">&lt;p&gt;2024/03/22 上課內容&lt;/p&gt;
+&lt;p&gt;點這裡&amp;gt;&amp;gt; &lt;a href="https://drive.google.com/file/d/1rLWppQAdR5QJujmCf4a7DJLa2_BxBNpH/view?usp=sharing"&gt;逐字稿&lt;/a&gt;&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>w5</title><link href="./41123105_2024-Spring-w5.html" rel="alternate"></link><published>2024-03-22T16:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123105</name></author><id>tag:None,2024-03-22:./41123105_2024-Spring-w5.html</id><summary type="html">&lt;p&gt;w5課程&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w5課程&lt;/p&gt;
+
+
+&lt;h1&gt;將之前入製的影片加入文字加入分組blog裡及自評&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://mdecd2024.github.io/2a-midag2/blog/W4%E5%BD%B1%E7%89%87%E7%BF%BB%E8%AD%AF%E8%88%87%E9%80%90%E5%AD%97%E7%A8%BF.html"&gt;2a-midag2的blog&lt;/a&gt;&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>W5</title><link href="./W5.html" rel="alternate"></link><published>2024-03-22T15:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-03-22:./W5.html</id><summary type="html">&lt;p&gt;2024/03/22 上課內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/22 上課內容&lt;/p&gt;
 
 
 &lt;h1&gt;W5分組任務&lt;/h1&gt;
 &lt;p&gt;將教學影片分組整理和自評 
 並放在小組團隊的blog上&lt;/p&gt;
-&lt;p&gt;第三組&lt;a href="https://mdecd2024.github.io/2a-midag3/blog/W4.html"&gt;小組blog&lt;/a&gt;&lt;/p&gt;</content><category term="W5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W5</title><link href="./20240322.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-10T08:26:43+08:00</updated><author><name>41123139</name></author><id>tag:None,2024-03-22:./20240322.html</id><summary type="html">&lt;p&gt;2024/03/22第五週網誌內容.&lt;/p&gt;
+&lt;p&gt;第三組&lt;a href="https://mdecd2024.github.io/2a-midag3/blog/W4.html"&gt;小組blog&lt;/a&gt;&lt;/p&gt;</content><category term="W5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w5課程 41123152</title><link href="./2024-Spring-w5-blog-tutorial-41123152.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-22:./2024-Spring-w5-blog-tutorial-41123152.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w5.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w5.&lt;/p&gt;
+
+
+&lt;p&gt;1.將自己的倉儲加入小組成為子模組&lt;/p&gt;
+&lt;p&gt;2.以 LaTeX 格式分工完成文章的英文與中文翻譯並列資料&lt;/p&gt;
+&lt;p&gt;3.上一部教學影片字幕&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W5</title><link href="./20240322.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123139</name></author><id>tag:None,2024-03-22:./20240322.html</id><summary type="html">&lt;p&gt;2024/03/22第五週網誌內容.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/22第五週網誌內容.&lt;/p&gt;
 
 
 &lt;h1&gt;影片&lt;/h1&gt;
 &lt;p&gt;把影片放到組別網誌，使用youtube嵌入，讓影片內容可以在網誌上看。
-第三組&lt;a href="https://mdecd2024.github.io/2a-midag3/blog/W4.html"&gt;組別網誌鏈結&lt;/a&gt;&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W5</title><link href="./5.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-10T08:26:43+08:00</updated><author><name>41123122</name></author><id>tag:None,2024-03-22:./5.html</id><summary type="html">&lt;p&gt;W5所做事情&lt;/p&gt;
+第三組&lt;a href="https://mdecd2024.github.io/2a-midag3/blog/W4.html"&gt;組別網誌鏈結&lt;/a&gt;&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W5</title><link href="./5.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123122</name></author><id>tag:None,2024-03-22:./5.html</id><summary type="html">&lt;p&gt;W5所做事情&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W5所做事情&lt;/p&gt;
 
 
@@ -30,13 +53,13 @@
 &lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/41123122_nfu_edu_tw/EYzDrllRUBdJlbn-Wu1oj7UBZYqLV3JW-SUguZ7tsOqs9g?e=cwSQqO&amp;nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"&gt;影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;Youtube也上傳一份&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://youtu.be/cm0moUerx1I?si=sjFryoj59Dn9jA-u"&gt;Youtubeu影片&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123122_nfu_edu_tw/EY30KbqT2_BOtsXWNxN25tUBMMLHamPTcgMod37c4FmIaQ?e=p8GwRp"&gt;逐字稿txt&lt;/a&gt;&lt;/p&gt;</content><category term="W5"></category><category term="網誌編寫"></category></entry><entry><title>W5</title><link href="./W5.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-10T08:26:43+08:00</updated><author><name>41123134</name></author><id>tag:None,2024-03-22:./W5.html</id><summary type="html">&lt;p&gt;2024/03/22 上課內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123122_nfu_edu_tw/EY30KbqT2_BOtsXWNxN25tUBMMLHamPTcgMod37c4FmIaQ?e=p8GwRp"&gt;逐字稿txt&lt;/a&gt;&lt;/p&gt;</content><category term="W5"></category><category term="網誌編寫"></category></entry><entry><title>W5</title><link href="./W5.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123134</name></author><id>tag:None,2024-03-22:./W5.html</id><summary type="html">&lt;p&gt;2024/03/22 上課內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/22 上課內容&lt;/p&gt;
 
 
 &lt;h1&gt;W5分組任務&lt;/h1&gt;
 &lt;p&gt;將每個上完字幕的教學影片上傳至分組blog，並打上自評分數。
-第三組&lt;a href="https://mdecd2024.github.io/2a-midag3/blog/W4.html"&gt;小組blog&lt;/a&gt;&lt;/p&gt;</content><category term="W5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w5</title><link href="./w5.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-05-10T08:26:43+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-03-15:./w5.html</id><summary type="html">&lt;p&gt;w5上課內容.&lt;/p&gt;
+第三組&lt;a href="https://mdecd2024.github.io/2a-midag3/blog/W4.html"&gt;小組blog&lt;/a&gt;&lt;/p&gt;</content><category term="W5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w5</title><link href="./w5.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-03-15:./w5.html</id><summary type="html">&lt;p&gt;w5上課內容.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;w5上課內容.&lt;/p&gt;
 
 
@@ -44,7 +67,7 @@
 &lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/personal/yen_nfu_edu_tw/_layouts/15/stream.aspx?id=%2Fpersonal%2Fyen%5Fnfu%5Fedu%5Ftw%2FDocuments%2F2024%2Fcd2024%2Fvideo%2Fcd2024%5F2b%5F1%5F%E5%BB%BA%E7%AB%8B%E5%80%8B%E4%BA%BA%E8%AA%B2%E7%A8%8B%E5%80%89%E5%84%B2%E8%88%87%E7%B6%B2%E7%AB%99%2Emp4&amp;amp;nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;ga=1&amp;amp;referrer=StreamWebApp%2EWeb&amp;amp;referrerScenario=AddressBarCopied%2Eview"&gt;課程影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/41123131_nfu_edu_tw/ES8rPFEcLfBPqU9vIGh0lHsBo7fjfTXhXLsqTtvRDX_LiQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=hDgkyf"&gt;翻譯影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123131_nfu_edu_tw/Eaa5i196Y_lAlKnxZjwvyhYB3feaC3vW2yJfYH70n9z0RQ?e=n0nLFp"&gt;逐字稿&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;點選網址https://github.com/mdecycu/cmsimde_site 進入cd2024 的倉儲 template後，建立新的倉儲CD2024，進入設定Pages，點選main設圍網址的根目錄&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelicanch"></category></entry><entry><title>W5</title><link href="./5.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-10T08:26:43+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./5.html</id><summary type="html">&lt;p&gt;2024/03/22 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+&lt;p&gt;點選網址https://github.com/mdecycu/cmsimde_site 進入cd2024 的倉儲 template後，建立新的倉儲CD2024，進入設定Pages，點選main設圍網址的根目錄&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelicanch"></category></entry><entry><title>W5</title><link href="./5.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./5.html</id><summary type="html">&lt;p&gt;2024/03/22 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/22 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
