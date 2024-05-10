@@ -1,6 +1,6 @@
-git submodule add https://github.com/mdecd2024/2a-midag1.git g1
-git submodule add https://github.com/mdecd2024/2a-midag4.git g4
-git submodule add https://github.com/mdecd2024/2a-midag5.git g5
-git submodule add https://github.com/mdecd2024/2a-midag6.git g6
-git submodule add https://github.com/mdecd2024/2a-midag7.git g7
+#git submodule add https://github.com/mdecd2024/2a-midag1.git g1
+#git submodule add https://github.com/mdecd2024/2a-midag4.git g4
+#git submodule add https://github.com/mdecd2024/2a-midag5.git g5
+#git submodule add https://github.com/mdecd2024/2a-midag6.git g6
+#git submodule add https://github.com/mdecd2024/2a-midag7.git g7
 git submodule add https://github.com/mdecd2024/2a-midag8.git g8

@@ -1,0 +1,33 @@
+#!/bin/bash
+
+cd g1
+git pull origin main
+cd ..
+
+cd g2
+git pull origin main
+cd ..
+
+cd g3
+git pull origin main
+cd ..
+
+cd g4
+git pull origin main
+cd ..
+
+cd g5
+git pull origin main
+cd ..
+
+cd g6
+git pull origin main
+cd ..
+
+cd g7
+git pull origin main
+cd ..
+
+cd g8
+git pull origin main
+cd ..
