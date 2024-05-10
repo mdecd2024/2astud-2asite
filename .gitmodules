@@ -1,0 +1,3 @@
+[submodule "g3"]
+	path = g3
+	url = https://github.com/mdecd2024/2a-midag3.git
