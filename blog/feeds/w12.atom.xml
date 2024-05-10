@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - W12</title><link href="./" rel="alternate"></link><link href="./feeds/w12.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T15:00:00+08:00</updated><entry><title>W12</title><link href="./W12.html" rel="alternate"></link><published>2024-05-10T15:00:00+08:00</published><updated>2024-05-10T08:26:43+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-05-10:./W12.html</id><summary type="html">&lt;p&gt;2024/05/10 上課內容&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024/05/10 上課內容&lt;/p&gt;
+
+
+&lt;h1&gt;W12分組任務&lt;/h1&gt;</content><category term="W12"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W12</title><link href="./12.html" rel="alternate"></link><published>2024-05-10T11:00:00+08:00</published><updated>2024-05-10T08:26:43+08:00</updated><author><name>41123122</name></author><id>tag:None,2024-05-10:./12.html</id><summary type="html">&lt;p&gt;W12所做事情&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W12所做事情&lt;/p&gt;
+
+
+&lt;h1&gt;說明如何在各自的分支進行內容更新, 最後再與分組分支合併, 最終才推到 main 分支&lt;/h1&gt;
+&lt;p&gt;&lt;a href="[(https://youtu.be/N4QPHMznMGc?si=YOyL675y-ZaOQOFZ)]"&gt;老師錄製影片連結&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;進入動態其中編輯心得再推上去再同步
+&lt;a href="[https://mdecd2024.github.io/2astud-2asite/content/index.html]"&gt;評分網站連結&lt;/a&gt;&lt;/p&gt;</content><category term="W12"></category><category term="網誌編寫"></category></entry><entry><title>cd2024 2a 評分流程</title><link href="./2024-w12_cd2024_evaluation.html" rel="alternate"></link><published>2024-05-10T11:00:00+08:00</published><updated>2024-05-10T08:26:43+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-10:./2024-w12_cd2024_evaluation.html</id><summary type="html">&lt;p&gt;cd2024 2a 評分流程.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;cd2024 2a 評分流程.&lt;/p&gt;
+
+
+&lt;h1&gt;課程評分&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;學員每週編寫網誌內容佔 40%&lt;/li&gt;
+&lt;li&gt;分組期中報告 (LaTeX -&amp;gt; pdf) 與簡報影片 (OBS -&amp;gt; mp4) 佔 20%&lt;/li&gt;
+&lt;li&gt;分組期末報告 (LaTeX -&amp;gt; pdf) 與簡報影片 (OBS -&amp;gt; mp4) 佔 40%&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;學員每週編寫網誌內容&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;每週上課內容摘要與分組報告執行分工及進度整理&lt;/li&gt;
+&lt;li&gt;相關資料收集與閱讀心得&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;分組期中報告&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;分組期中報告 (LaTeX -&amp;gt; pdf) 與簡報影片 (OBS -&amp;gt; mp4) 佔 20%&lt;/li&gt;
+&lt;li&gt;每組至多 8 人, 期中報告題目: ODOO PLM 在協同產品設計上的應用 - 以鋼球平衡台機電控制系統設計為例&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;分組期末報告&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;分組期末報告 (LaTeX -&amp;gt; pdf) 與簡報影片 (OBS -&amp;gt; mp4) 佔 40%&lt;/li&gt;
+&lt;li&gt;期末報告題目: 網際綜合球類競賽機器人協同設計與模擬&lt;/li&gt;
+&lt;/ol&gt;</content><category term="w12"></category><category term="評分"></category></entry><entry><title>W12</title><link href="./20240510.html" rel="alternate"></link><published>2024-05-10T11:00:00+08:00</published><updated>2024-05-10T08:26:43+08:00</updated><author><name>41123139</name></author><id>tag:None,2024-05-10:./20240510.html</id><summary type="html">&lt;p&gt;2024/05/10第十二週網誌內容.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024/05/10第十二週網誌內容.&lt;/p&gt;
+
+
+&lt;h1&gt;&lt;/h1&gt;</content><category term="w12"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W12</title><link href="./W12.html" rel="alternate"></link><published>2024-05-10T11:00:00+08:00</published><updated>2024-05-10T08:26:43+08:00</updated><author><name>41123134</name></author><id>tag:None,2024-05-10:./W12.html</id><summary type="html">&lt;p&gt;2024/05/10 上課內容&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024/05/10 上課內容&lt;/p&gt;
+
+
+&lt;h1&gt;W12分組任務&lt;/h1&gt;</content><category term="W12"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
