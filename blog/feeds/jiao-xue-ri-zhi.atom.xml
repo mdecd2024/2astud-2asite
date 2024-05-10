@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - 教學日誌</title><link href="./" rel="alternate"></link><link href="./feeds/jiao-xue-ri-zhi.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T09:31:39+08:00</updated><entry><title>W11 教學內容</title><link href="./2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-05-03:./2024-Spring-w11-blog-tutorial.html</id><content type="html">&lt;p&gt;第十一週教學內容&lt;/p&gt;
-</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W10 教學內容</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-04-26:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;第十週教學內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - 教學日誌</title><link href="./" rel="alternate"></link><link href="./feeds/jiao-xue-ri-zhi.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T16:16:10+08:00</updated><entry><title>W11 教學內容</title><link href="./41123135_2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-05-03:./41123135_2024-Spring-w11-blog-tutorial.html</id><content type="html">&lt;p&gt;第十一週教學內容&lt;/p&gt;
+</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W10 教學內容</title><link href="./41123135_2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-04-26:./41123135_2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;第十週教學內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第十週教學內容&lt;/p&gt;
 
 
@@ -82,12 +82,12 @@
 
   # 呼叫函式讀取 CSV 資料
   fetch_csv_data()
-&lt;/pre&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W9 教學內容</title><link href="./2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-04-19:./2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;第九周教學內容&lt;/p&gt;
+&lt;/pre&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W9 教學內容</title><link href="./41123135_2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-04-19:./41123135_2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;第九周教學內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第九周教學內容&lt;/p&gt;
 
 
 &lt;h1&gt;上傳期中自評成績&lt;/h1&gt;
-&lt;p&gt;在teams中有2a自評成績表單連結 只要在教師指定時間內輸入自己的自評分數即可 41123135輸入了:69分&lt;/p&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W8 教學內容</title><link href="./2024-Spring-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-04-12:./2024-Spring-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;第八周教學內容&lt;/p&gt;
+&lt;p&gt;在teams中有2a自評成績表單連結 只要在教師指定時間內輸入自己的自評分數即可 41123135輸入了:69分&lt;/p&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W8 教學內容</title><link href="./41123135_2024-Spring-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-04-12:./41123135_2024-Spring-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;第八周教學內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第八周教學內容&lt;/p&gt;
 
 
@@ -129,12 +129,12 @@
   cd 41123149
   git pull origin main
   cd ..
-&lt;/pre&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W7 教學內容</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-05T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-04-05:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;本週放假&lt;/p&gt;
+&lt;/pre&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W7 教學內容</title><link href="./41123135_2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-05T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-04-05:./41123135_2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;本週放假&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;本週放假&lt;/p&gt;
 
 
 &lt;h1&gt;放假去瞜&lt;/h1&gt;
-&lt;p&gt;好開心&lt;/p&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W6 教學內容</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-29:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;查看各分組網站進度，教學更新分組個人子模組&lt;/p&gt;
+&lt;p&gt;好開心&lt;/p&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W6 教學內容</title><link href="./41123135_2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-29:./41123135_2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;查看各分組網站進度，教學更新分組個人子模組&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;查看各分組網站進度，教學更新分組個人子模組&lt;/p&gt;
 
 
@@ -144,7 +144,7 @@
 
 &lt;h1&gt;利用 pelicanconf py 整合各組員的網誌&lt;/h1&gt;
 &lt;p&gt;下列是利用app把背景噪音消除的版本&lt;/p&gt;
-&lt;iframe width="1120" height="630" src="https://www.youtube.com/embed/-xuR2hL4zIw?si=_kWq_75U4pSHthe7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W5 教學內容</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-22:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;教學如何在分組倉儲的Replit加上ssh協定&lt;/p&gt;
+&lt;iframe width="1120" height="630" src="https://www.youtube.com/embed/-xuR2hL4zIw?si=_kWq_75U4pSHthe7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W5 教學內容</title><link href="./41123135_2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-22:./41123135_2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;教學如何在分組倉儲的Replit加上ssh協定&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;教學如何在分組倉儲的Replit加上ssh協定&lt;/p&gt;
 
 &lt;h1&gt;如何在分組倉儲的Replit加上ssh協定&lt;/h1&gt;
@@ -152,7 +152,7 @@
 
 &lt;h1&gt;在分組倉儲中的blog加上W4各組員所做的成果並進行自我評分&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://mdecd2024.github.io/2a-midag3/blog/W4.html"&gt;分組的blog&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;完成後在cd2024的teams中進行留言給教師&lt;/p&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W4 教學內容</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-15:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;把之前的影片加上逐字稿及字幕和大綱&lt;/p&gt;
+&lt;p&gt;完成後在cd2024的teams中進行留言給教師&lt;/p&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W4 教學內容</title><link href="./41123135_2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-15:./41123135_2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;把之前的影片加上逐字稿及字幕和大綱&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;把之前的影片加上逐字稿及字幕和大綱&lt;/p&gt;
 
 
@@ -167,7 +167,7 @@
 &lt;p&gt;再來就可以使用python3 server.py 來執行動態網站了&lt;/p&gt;
 &lt;p&gt;python3 -m http.server 可以執行靜態網站&lt;/p&gt;
 &lt;p&gt;之後再用 git add + commit + push 即可推回倉儲&lt;/p&gt;
-&lt;p&gt;成品在&lt;a href="https://mdecd2024.github.io/2a-midag3/content/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Codespaces.html"&gt;這個分組網站&lt;/a&gt;內，大綱在網頁底下，逐字稿為底下的.txt檔&lt;/p&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W3 教學內容</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-08:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;教學如何在分組倉儲內加入組員的倉儲當子模組&lt;/p&gt;
+&lt;p&gt;成品在&lt;a href="https://mdecd2024.github.io/2a-midag3/content/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Codespaces.html"&gt;這個分組網站&lt;/a&gt;內，大綱在網頁底下，逐字稿為底下的.txt檔&lt;/p&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W3 教學內容</title><link href="./41123135_2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-08:./41123135_2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;教學如何在分組倉儲內加入組員的倉儲當子模組&lt;/p&gt;
 &lt;p&gt;並教學如何使用Latex轉成PDF和教學把組員個人倉儲內的分配的Latex合併為分組的報告PDF&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;教學如何在分組倉儲內加入組員的倉儲當子模組&lt;/p&gt;
 &lt;p&gt;並教學如何使用Latex轉成PDF和教學把組員個人倉儲內的分配的Latex合併為分組的報告PDF&lt;/p&gt;
@@ -183,7 +183,7 @@
 &lt;p&gt;開啟分組倉儲的Codespaces 進入該組員的學號目錄中 輸入 git pull origin main 即可取下該組員的最新版本 取下後記得回去分組倉儲執行 push 來把整個倉儲推回去github&lt;/p&gt;
 &lt;h1&gt;使用Latex 進行分組報告&lt;/h1&gt;
 &lt;p&gt;使用一個.txt檔案 內容需要按照Latex的格式編寫 編寫完成後使用 xelatex report_win.txt 這個指令把report_win.txt轉成我們所需要的PDF (report_win.txt 是檔案名稱) 檔案名稱可以更改 &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/ESjVHtGM6_VHhiXfHVspzXwBdvHAx67b__YfRmxX6fRU2Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=wKRtj2"&gt;教學影片&lt;/a&gt;&lt;/p&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W2 教學內容</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-01:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;利用 Github Classroom 進行分組&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/ESjVHtGM6_VHhiXfHVspzXwBdvHAx67b__YfRmxX6fRU2Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=wKRtj2"&gt;教學影片&lt;/a&gt;&lt;/p&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W2 教學內容</title><link href="./41123135_2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-03-01:./41123135_2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;利用 Github Classroom 進行分組&lt;/p&gt;
 &lt;p&gt;並利用 Github Codespaces 維護個人或分組網站&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;利用 Github Classroom 進行分組&lt;/p&gt;
 &lt;p&gt;並利用 Github Codespaces 維護個人或分組網站&lt;/p&gt;
@@ -199,7 +199,7 @@
 &lt;p&gt;若是要對分組網站進行更新的話 建議用 Codespaces 理由是使用Replit的話，分組網站是建立在 mdecd2024 帳號下，若是要推回去的話沒有權限，所以需要做一些前置作業讓Replit跟github取得連結，步驟相對於 Codespaces 來說相對繁瑣&lt;/p&gt;
 &lt;p&gt;使用Replit更新分組網站示範 &lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EfEB1UUQFttEu-jLYpAaflsB85I01JJFdI_HectY6T5rrw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=eYLF26"&gt;影片連結&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;在近端執行動態網站&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EfEB1UUQFttEu-jLYpAaflsB85I01JJFdI_HectY6T5rrw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=eYLF26"&gt;影片連結&lt;/a&gt;&lt;/p&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W1 教學內容</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-02-23:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;進行課程開始的前置步驟&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EfEB1UUQFttEu-jLYpAaflsB85I01JJFdI_HectY6T5rrw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=eYLF26"&gt;影片連結&lt;/a&gt;&lt;/p&gt;</content><category term="教學日誌"></category><category term="網誌編寫"></category></entry><entry><title>W1 教學內容</title><link href="./41123135_2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123135</name></author><id>tag:None,2024-02-23:./41123135_2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;進行課程開始的前置步驟&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;進行課程開始的前置步驟&lt;/p&gt;
 
 

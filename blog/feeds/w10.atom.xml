@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T09:31:39+08:00</updated><entry><title>W10</title><link href="./41123145-W10.html" rel="alternate"></link><published>2024-04-26T17:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-04-26:./41123145-W10.html</id><summary type="html">&lt;p&gt;W10內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T16:16:11+08:00</updated><entry><title>W10</title><link href="./41123145_41123145-W10.html" rel="alternate"></link><published>2024-04-26T17:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-04-26:./41123145_41123145-W10.html</id><summary type="html">&lt;p&gt;W10內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W10內容&lt;/p&gt;
 
 &lt;h1&gt;任務二 閱讀論文後請將摘要內容放入個人與分組網誌中&lt;/h1&gt;
@@ -20,13 +20,13 @@
 &lt;p&gt;結論:描述了一個平衡球的實驗室測試台的設計，該設計可用於測試穩定性和平衡控制算法，對於海洋船舶和空中載具等應用可能至關重要。基於微控制器的控制系統追蹤阻性觸摸屏上球的位置並計算位置誤差，從而使球保持在阻性玻璃的中心點。&lt;/p&gt;
 &lt;h3&gt;論文六：2D Ball Balancer Control using QUARC&lt;/h3&gt;
 &lt;p&gt;摘要:為了幫助使用QUARC軟件控制2D球平衡器的實驗。它包含了設計PID控制器、進行步階響應、坡道響應、正弦響應等的步驟。同時還提供了有關SRV02系統的角度關係、運動方程等的詳細解釋。&lt;/p&gt;
-&lt;p&gt;結論:提供了豐富的資訊和步驟，幫助使用者學習如何使用QUARC軟件控制2D球平衡器。通過實驗和模擬，使用者可以設計並實施PID控制器，並評估系統的性能。這將有助於加深對控制系統設計和實施的理解。&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>20240329w10 Spring 課程紀錄</title><link href="./20240426.html" rel="alternate"></link><published>2024-04-26T16:30:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123129</name></author><id>tag:None,2024-04-26:./20240426.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程紀錄&lt;/p&gt;
+&lt;p&gt;結論:提供了豐富的資訊和步驟，幫助使用者學習如何使用QUARC軟件控制2D球平衡器。通過實驗和模擬，使用者可以設計並實施PID控制器，並評估系統的性能。這將有助於加深對控制系統設計和實施的理解。&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>20240329w10 Spring 課程紀錄</title><link href="./41123129_20240426.html" rel="alternate"></link><published>2024-04-26T16:30:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123129</name></author><id>tag:None,2024-04-26:./41123129_20240426.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程紀錄&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程紀錄&lt;/p&gt;
 
 
 &lt;h1&gt;w10&lt;/h1&gt;
 &lt;p&gt;鋼球平衡台 PID 控制與模擬&lt;/p&gt;
-&lt;p&gt;鋼球平衡台零組件繪圖 各組分工畫圖並錄影&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>w10</title><link href="./41123105_2024-Spring-w10.html" rel="alternate"></link><published>2024-04-26T16:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123105</name></author><id>tag:None,2024-04-26:./41123105_2024-Spring-w10.html</id><summary type="html">&lt;p&gt;w10課程&lt;/p&gt;
+&lt;p&gt;鋼球平衡台零組件繪圖 各組分工畫圖並錄影&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>w10</title><link href="./41123105_2024-Spring-w10.html" rel="alternate"></link><published>2024-04-26T16:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123105</name></author><id>tag:None,2024-04-26:./41123105_2024-Spring-w10.html</id><summary type="html">&lt;p&gt;w10課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;w10課程&lt;/p&gt;
 
 
@@ -45,7 +45,7 @@
 &lt;p&gt;文章五: Ball on the plate balancing control system (板上球平衡控制系統)
 摘要內容 : 平衡問題是一個持續的研究挑戰，適用於從教育到交通的許多興趣領域。二自由度球平衡實驗室試驗台是瞭解控制系統的重要設備。本文重點介紹了在板上平衡球的機械設計。使用電阻式觸摸屏獲取球體位置數據，使用步進電機和位置傳感器控制平台傾斜角度。 設計基於 AVR 微控制器的雙環下屬控制系統，使用 PID 控制器維持球體平衡。&lt;/p&gt;
 &lt;p&gt;文章六 : 2D Ball Balancer Control using QUARC (使用 QUARC 的 2D 球平衡器控制)
-摘要內容 : 使用 QUARC 軟體設計和實現球體在二維平台上的位置控制。 設計 PD 和 PID 控制器，並探討設定點權重和積分器抗飽和等控制技術。 使用攝像頭讀取球體位置，並進行校準和轉換。&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>W10</title><link href="./W10.html" rel="alternate"></link><published>2024-04-26T15:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-04-26:./W10.html</id><summary type="html">&lt;p&gt;2024/04/26 上課內容&lt;/p&gt;
+摘要內容 : 使用 QUARC 軟體設計和實現球體在二維平台上的位置控制。 設計 PD 和 PID 控制器，並探討設定點權重和積分器抗飽和等控制技術。 使用攝像頭讀取球體位置，並進行校準和轉換。&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>W10</title><link href="./41123149_W10.html" rel="alternate"></link><published>2024-04-26T15:00:00+08:00</published><updated>2024-05-10T16:16:11+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-04-26:./41123149_W10.html</id><summary type="html">&lt;p&gt;2024/04/26 上課內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/04/26 上課內容&lt;/p&gt;
 
 
@@ -129,7 +129,7 @@
   # 呼叫函式讀取 CSV 資料
   fetch_csv_data()
 
-&lt;/pre&gt;</content><category term="W10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W10</title><link href="./10.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123122</name></author><id>tag:None,2024-04-26:./10.html</id><summary type="html">&lt;p&gt;W10所做事情&lt;/p&gt;
+&lt;/pre&gt;</content><category term="W10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W10</title><link href="./41123122_10.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123122</name></author><id>tag:None,2024-04-26:./41123122_10.html</id><summary type="html">&lt;p&gt;W10所做事情&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W10所做事情&lt;/p&gt;
 
 
@@ -228,21 +228,18 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vXR0OEnA6AI?si=yJoMpw1OrkQpHgi1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;[hinge last]&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5anto_dt76Q?si=z3K4D8ebd8zjjVDV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="W10"></category><category term="網誌編寫"></category></entry><entry><title>w10課程 41123152</title><link href="./2024-Spring-w10-blog-tutorial-41123152.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-26:./2024-Spring-w10-blog-tutorial-41123152.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w10.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w10.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5anto_dt76Q?si=z3K4D8ebd8zjjVDV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="W10"></category><category term="網誌編寫"></category></entry><entry><title>w10</title><link href="./41123131_w10.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-04-26:./41123131_w10.html</id><summary type="html">&lt;p&gt;w10上課內容.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w10上課內容.&lt;/p&gt;
 
 
-&lt;h1&gt;今日課程內容&lt;/h1&gt;
-&lt;p&gt;完成Latex翻譯並上傳至Downloads中&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W10</title><link href="./20240426.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123139</name></author><id>tag:None,2024-04-26:./20240426.html</id><summary type="html">&lt;p&gt;2024/04/26第十週網誌內容.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024/04/26第十週網誌內容.&lt;/p&gt;
+&lt;h1&gt;任務一:建立各班學員的倉儲、網站與分組連結&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://mde.tw/cd2024/content/Brython.html?src=https://gist.githubusercontent.com/mdecycu/8ba6fa28317bc7a784d8350e7bc33580/raw/a035644a54de63d3b920211e78e7532837bda516/2a_w10_step2.py"&gt;列出2a成員名單&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;任務二:鋼球平衡台 PID 控制與模擬&lt;/p&gt;
+&lt;p&gt;任務三
+platform繪製&lt;/p&gt;
+&lt;iframe width="653" height="351" src="https://www.youtube.com/embed/yvoLvFX4Kus" title="platform繪製" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 
-
-&lt;h1&gt;完成老師指派的任務&lt;/h1&gt;
-&lt;p&gt;1.任務一建立各班學員的&lt;a href="https://github.com/41123139/cd2024"&gt;倉儲&lt;/a&gt;、&lt;a href="https://41123139.github.io/cd2024"&gt;網站&lt;/a&gt;與&lt;a href="https://github.com/mdecd2024/2a-midag3"&gt;分組連結&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;2.任務二鋼球平衡台 PID 控制與模擬&lt;/p&gt;
-&lt;p&gt;3.任務三鋼球平衡台零組件繪圖
-負責畫&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/41123139_nfu_edu_tw/EQddYVRixmNBicatYh3iyogBX0Ss4yPbkrqiASqoObAfKw?e=qg1PH6"&gt;base&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/npBgae2QfhQ?si=aoZp2KOBERmcVlY-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W10</title><link href="./W10.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123134</name></author><id>tag:None,2024-04-26:./W10.html</id><summary type="html">&lt;p&gt;2024/04/26 上課內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/41123131_nfu_edu_tw/EQGoppGu14BEk651TufslQABKJo2sagJtCSFk1J_bxxoLw?e=1EaFdj"&gt;檔案下載&lt;/a&gt;&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelicanch"></category></entry><entry><title>W10</title><link href="./41123134_W10.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123134</name></author><id>tag:None,2024-04-26:./41123134_W10.html</id><summary type="html">&lt;p&gt;2024/04/26 上課內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/04/26 上課內容&lt;/p&gt;
 
 
@@ -327,18 +324,21 @@
   fetch_csv_data()
 &lt;/pre&gt;
 &lt;p&gt;W10任務二:下載 cd2024_ball_balancing_platform_control_ref.7z此檔案，觀看內容並整理出大綱。
-W10任務三:小組分配繪圖，鋼球平衡台零組件繪圖。&lt;a href="https://mdecd2024.github.io/2a-midag3/blog/W10.html"&gt;已完成&lt;/a&gt;&lt;/p&gt;</content><category term="W10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w10</title><link href="./w10.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-04-26:./w10.html</id><summary type="html">&lt;p&gt;w10上課內容.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;w10上課內容.&lt;/p&gt;
+W10任務三:小組分配繪圖，鋼球平衡台零組件繪圖。&lt;a href="https://mdecd2024.github.io/2a-midag3/blog/W10.html"&gt;已完成&lt;/a&gt;&lt;/p&gt;</content><category term="W10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W10</title><link href="./41123139_20240426.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123139</name></author><id>tag:None,2024-04-26:./41123139_20240426.html</id><summary type="html">&lt;p&gt;2024/04/26第十週網誌內容.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024/04/26第十週網誌內容.&lt;/p&gt;
 
 
-&lt;h1&gt;任務一:建立各班學員的倉儲、網站與分組連結&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://mde.tw/cd2024/content/Brython.html?src=https://gist.githubusercontent.com/mdecycu/8ba6fa28317bc7a784d8350e7bc33580/raw/a035644a54de63d3b920211e78e7532837bda516/2a_w10_step2.py"&gt;列出2a成員名單&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;任務二:鋼球平衡台 PID 控制與模擬&lt;/p&gt;
-&lt;p&gt;任務三
-platform繪製&lt;/p&gt;
-&lt;iframe width="653" height="351" src="https://www.youtube.com/embed/yvoLvFX4Kus" title="platform繪製" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h1&gt;完成老師指派的任務&lt;/h1&gt;
+&lt;p&gt;1.任務一建立各班學員的&lt;a href="https://github.com/41123139/cd2024"&gt;倉儲&lt;/a&gt;、&lt;a href="https://41123139.github.io/cd2024"&gt;網站&lt;/a&gt;與&lt;a href="https://github.com/mdecd2024/2a-midag3"&gt;分組連結&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.任務二鋼球平衡台 PID 控制與模擬&lt;/p&gt;
+&lt;p&gt;3.任務三鋼球平衡台零組件繪圖
+負責畫&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/41123139_nfu_edu_tw/EQddYVRixmNBicatYh3iyogBX0Ss4yPbkrqiASqoObAfKw?e=qg1PH6"&gt;base&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/npBgae2QfhQ?si=aoZp2KOBERmcVlY-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w10課程 41123152</title><link href="./41123152_2024-Spring-w10-blog-tutorial-41123152.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-10T16:16:11+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-26:./41123152_2024-Spring-w10-blog-tutorial-41123152.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w10.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w10.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/41123131_nfu_edu_tw/EQGoppGu14BEk651TufslQABKJo2sagJtCSFk1J_bxxoLw?e=1EaFdj"&gt;檔案下載&lt;/a&gt;&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelicanch"></category></entry><entry><title>W10</title><link href="./10.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./10.html</id><summary type="html">&lt;p&gt;2024/04/26 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+
+&lt;h1&gt;今日課程內容&lt;/h1&gt;
+&lt;p&gt;完成Latex翻譯並上傳至Downloads中&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W10</title><link href="./41123137_10.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./41123137_10.html</id><summary type="html">&lt;p&gt;2024/04/26 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/04/26 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 

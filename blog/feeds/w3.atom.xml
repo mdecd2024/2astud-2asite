@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - w3</title><link href="./" rel="alternate"></link><link href="./feeds/w3.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T09:31:39+08:00</updated><entry><title>w3 課程</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-12T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-12:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - w3</title><link href="./" rel="alternate"></link><link href="./feeds/w3.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T16:16:11+08:00</updated><entry><title>w3 課程</title><link href="./41023156_2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-12T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-12:./41023156_2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;h1&gt;第三週筆記&lt;/h1&gt;
-&lt;p&gt;1.添加latex報告至個人倉儲&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>W3</title><link href="./41123145-W3.html" rel="alternate"></link><published>2024-03-08T17:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-08:./41123145-W3.html</id><summary type="html">&lt;p&gt;W3內容&lt;/p&gt;
+&lt;p&gt;1.添加latex報告至個人倉儲&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>W3</title><link href="./41123145_41123145-W3.html" rel="alternate"></link><published>2024-03-08T17:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-08:./41123145_41123145-W3.html</id><summary type="html">&lt;p&gt;W3內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W3內容&lt;/p&gt;
 
 
@@ -13,26 +13,34 @@
 &lt;p&gt;41123145負責67-77頁
 &lt;a href="https://drive.google.com/file/d/1g4xlxGdSHmJ9eldZt0xBNPWFdBO4lEBL/view?usp=drive_link"&gt;67-77原文&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/file/d/1JfFy66IC6YhOOfL8LNbJRXZ-XxwBFY1_/view?usp=drive_link"&gt;67-77中文翻譯&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://drive.google.com/file/d/19cF5h0O56lDMaxobTLBonw4GVfyynRrs/view?usp=drive_link"&gt;67-77中英合併&lt;/a&gt;&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w3</title><link href="./41123105_2024-Spring-w3.html" rel="alternate"></link><published>2024-03-08T16:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123105</name></author><id>tag:None,2024-03-08:./41123105_2024-Spring-w3.html</id><summary type="html">&lt;p&gt;w3課程&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/19cF5h0O56lDMaxobTLBonw4GVfyynRrs/view?usp=drive_link"&gt;67-77中英合併&lt;/a&gt;&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w3</title><link href="./41123105_2024-Spring-w3.html" rel="alternate"></link><published>2024-03-08T16:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123105</name></author><id>tag:None,2024-03-08:./41123105_2024-Spring-w3.html</id><summary type="html">&lt;p&gt;w3課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;w3課程&lt;/p&gt;
 
 
 &lt;h1&gt;將個人倉儲納入分組倉儲的子模組&lt;/h1&gt;
 &lt;h1&gt;翻譯所分配到的頁數&lt;/h1&gt;
 &lt;p&gt;page12~22&lt;/p&gt;
-&lt;iframe src="https://1drv.ms/t/c/9a62b67559925288/IQN5RXWdguZBRogKqLnWnQmTAbWSt_OYp3lZlTNJGWdkXkk" width="560" height="315" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>W3</title><link href="./W3.html" rel="alternate"></link><published>2024-03-08T15:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-03-08:./W3.html</id><summary type="html">&lt;p&gt;2024/03/08 上課內容&lt;/p&gt;
+&lt;iframe src="https://1drv.ms/t/c/9a62b67559925288/IQN5RXWdguZBRogKqLnWnQmTAbWSt_OYp3lZlTNJGWdkXkk" width="560" height="315" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>W3</title><link href="./41123149_W3.html" rel="alternate"></link><published>2024-03-08T15:00:00+08:00</published><updated>2024-05-10T16:16:11+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-03-08:./41123149_W3.html</id><summary type="html">&lt;p&gt;2024/03/08 上課內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/08 上課內容&lt;/p&gt;
 
 
 &lt;h1&gt;W3分組任務&lt;/h1&gt;
 &lt;p&gt;將組員的個人倉儲設為分組倉儲子模組&lt;/p&gt;
 &lt;p&gt;翻譯 ODOO PLM 在協同產品設計上的應用 P1~P11&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123149_nfu_edu_tw/EcLFIfzF0w9HjdJnrAK1XtoBLYqpfa5VbfmAoVdFregKWA?e=y6yF9x"&gt;連結&lt;/a&gt;&lt;/p&gt;</content><category term="W3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>20240308w3 Spring 課程紀錄</title><link href="./20240308.html" rel="alternate"></link><published>2024-03-08T14:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123129</name></author><id>tag:None,2024-03-08:./20240308.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程紀錄&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123149_nfu_edu_tw/EcLFIfzF0w9HjdJnrAK1XtoBLYqpfa5VbfmAoVdFregKWA?e=y6yF9x"&gt;連結&lt;/a&gt;&lt;/p&gt;</content><category term="W3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>20240308w3 Spring 課程紀錄</title><link href="./41123129_20240308.html" rel="alternate"></link><published>2024-03-08T14:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123129</name></author><id>tag:None,2024-03-08:./41123129_20240308.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程紀錄&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程紀錄&lt;/p&gt;
 
 
 &lt;h1&gt;w3任務&lt;/h1&gt;
-&lt;p&gt;第三週進行將組員的個人倉儲設為分組倉儲子模組，利用分組協同建立 LaTeX 報告&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 w3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-08:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習w3課程.&lt;/p&gt;
+&lt;p&gt;第三週進行將組員的個人倉儲設為分組倉儲子模組，利用分組協同建立 LaTeX 報告&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>W3</title><link href="./41123122_3.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123122</name></author><id>tag:None,2024-03-08:./41123122_3.html</id><summary type="html">&lt;p&gt;W3所做事情&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W3所做事情&lt;/p&gt;
+
+
+&lt;h1&gt;進行分組&lt;/h1&gt;
+&lt;p&gt;使用teams老師給的網址進入小組
+&lt;a href="https://classroom.github.com/a/4oAmwPFW"&gt;加入連結&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;加入分好的小組&lt;/h1&gt;
+&lt;p&gt;加入組別:&lt;a href="https://github.com/mdecd2024/2a-midag3"&gt;2a_midog3&lt;/a&gt;&lt;/p&gt;</content><category term="W3"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 w3</title><link href="./41123123_2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-08:./41123123_2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習w3課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習w3課程.&lt;/p&gt;
 
 
@@ -296,38 +304,30 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w3"></category><category term="網誌編寫 pelican"></category></entry><entry><title>W3</title><link href="./20240308.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123139</name></author><id>tag:None,2024-03-08:./20240308.html</id><summary type="html">&lt;p&gt;2024/03/08第三週網誌內容.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024/03/08第三週網誌內容.&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w3"></category><category term="網誌編寫 pelican"></category></entry><entry><title>w3</title><link href="./41123131_w3.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-03-08:./41123131_w3.html</id><summary type="html">&lt;p&gt;w3上課內容.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w3上課內容.&lt;/p&gt;
 
 
-&lt;h1&gt;2a-midag3組別倉儲&lt;/h1&gt;
-&lt;p&gt;使用Github的Codespaces將個人課程倉儲 cd2024 設為分組倉儲 2a-midag3 的子模組
-第三組&lt;a href="https://github.com/mdecd2024/2a-midag3"&gt;組別倉儲鏈結&lt;/a&gt;&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W3</title><link href="./3.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123122</name></author><id>tag:None,2024-03-08:./3.html</id><summary type="html">&lt;p&gt;W3所做事情&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;W3所做事情&lt;/p&gt;
-
-
-&lt;h1&gt;進行分組&lt;/h1&gt;
-&lt;p&gt;使用teams老師給的網址進入小組
-&lt;a href="https://classroom.github.com/a/4oAmwPFW"&gt;加入連結&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;加入分好的小組&lt;/h1&gt;
-&lt;p&gt;加入組別:&lt;a href="https://github.com/mdecd2024/2a-midag3"&gt;2a_midog3&lt;/a&gt;&lt;/p&gt;</content><category term="W3"></category><category term="網誌編寫"></category></entry><entry><title>w3課程 41123152</title><link href="./41123152-w3-blog-tutorial-41123152.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-08:./41123152-w3-blog-tutorial-41123152.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w3.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w3.&lt;/p&gt;
-
-
-&lt;h1&gt;今日課程內容&lt;/h1&gt;
-&lt;p&gt;1.建立小組群組倉儲(https://github.com/mdecd2024/2a-midag2)&lt;/p&gt;
-&lt;p&gt;2.建立Putty權限(ppk)&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W3</title><link href="./W3.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123134</name></author><id>tag:None,2024-03-08:./W3.html</id><summary type="html">&lt;p&gt;2024/03/08 上課內容&lt;/p&gt;
+&lt;h1&gt;期中協同分組報告&lt;/h1&gt;
+&lt;p&gt;將個人倉儲設定為小組子模組&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelicanch"></category></entry><entry><title>W3</title><link href="./41123134_W3.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123134</name></author><id>tag:None,2024-03-08:./41123134_W3.html</id><summary type="html">&lt;p&gt;2024/03/08 上課內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/08 上課內容&lt;/p&gt;
 
 
 &lt;h1&gt;加入分組倉儲子模組&lt;/h1&gt;
 &lt;p&gt;將個人倉儲加入第三組倉儲，子模組代號:41123134 @ 229f63c
-第三組&lt;a href="https://github.com/mdecd2024/2a-midag3"&gt;倉儲連結&lt;/a&gt;&lt;/p&gt;</content><category term="W3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w3</title><link href="./w3.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-03-08:./w3.html</id><summary type="html">&lt;p&gt;w3上課內容.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;w3上課內容.&lt;/p&gt;
+第三組&lt;a href="https://github.com/mdecd2024/2a-midag3"&gt;倉儲連結&lt;/a&gt;&lt;/p&gt;</content><category term="W3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W3</title><link href="./41123139_20240308.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123139</name></author><id>tag:None,2024-03-08:./41123139_20240308.html</id><summary type="html">&lt;p&gt;2024/03/08第三週網誌內容.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024/03/08第三週網誌內容.&lt;/p&gt;
 
 
-&lt;h1&gt;期中協同分組報告&lt;/h1&gt;
-&lt;p&gt;將個人倉儲設定為小組子模組&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelicanch"></category></entry><entry><title>W3</title><link href="./3.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./3.html</id><summary type="html">&lt;p&gt;2024/03/08 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+&lt;h1&gt;2a-midag3組別倉儲&lt;/h1&gt;
+&lt;p&gt;使用Github的Codespaces將個人課程倉儲 cd2024 設為分組倉儲 2a-midag3 的子模組
+第三組&lt;a href="https://github.com/mdecd2024/2a-midag3"&gt;組別倉儲鏈結&lt;/a&gt;&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w3課程 41123152</title><link href="./41123152_41123152-w3-blog-tutorial-41123152.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-10T16:16:11+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-08:./41123152_41123152-w3-blog-tutorial-41123152.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w3.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w3.&lt;/p&gt;
+
+
+&lt;h1&gt;今日課程內容&lt;/h1&gt;
+&lt;p&gt;1.建立小組群組倉儲(https://github.com/mdecd2024/2a-midag2)&lt;/p&gt;
+&lt;p&gt;2.建立Putty權限(ppk)&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W3</title><link href="./41123137_3.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./41123137_3.html</id><summary type="html">&lt;p&gt;2024/03/08 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/08 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
@@ -595,7 +595,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W3課程</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-01:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W3課程</title><link href="./41123130_2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-01:./41123130_2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 

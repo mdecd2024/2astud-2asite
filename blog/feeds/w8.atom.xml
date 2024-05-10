@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - w8</title><link href="./" rel="alternate"></link><link href="./feeds/w8.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T09:31:39+08:00</updated><entry><title>W8</title><link href="./41123145-W8.html" rel="alternate"></link><published>2024-04-12T17:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-04-12:./41123145-W8.html</id><summary type="html">&lt;p&gt;W8內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - w8</title><link href="./" rel="alternate"></link><link href="./feeds/w8.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T16:16:11+08:00</updated><entry><title>W8</title><link href="./41123145_41123145-W8.html" rel="alternate"></link><published>2024-04-12T17:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-04-12:./41123145_41123145-W8.html</id><summary type="html">&lt;p&gt;W8內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W8內容&lt;/p&gt;
 
 &lt;h1&gt;更改Slug名稱&lt;/h1&gt;
-&lt;p&gt;將網誌Slug名稱改成自己學號&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>20240329w8 Spring 課程紀錄</title><link href="./20240412.html" rel="alternate"></link><published>2024-04-12T16:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123129</name></author><id>tag:None,2024-04-12:./20240412.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程紀錄&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程紀錄&lt;/p&gt;
-
-
-&lt;h1&gt;w8&lt;/h1&gt;
-&lt;p&gt;更新子模組到組別倉儲&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>w8</title><link href="./41123105_2024-Spring-w8.html" rel="alternate"></link><published>2024-04-12T16:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123105</name></author><id>tag:None,2024-04-12:./41123105_2024-Spring-w8.html</id><summary type="html">&lt;p&gt;w8課程&lt;/p&gt;
+&lt;p&gt;將網誌Slug名稱改成自己學號&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w8</title><link href="./41123105_2024-Spring-w8.html" rel="alternate"></link><published>2024-04-12T16:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123105</name></author><id>tag:None,2024-04-12:./41123105_2024-Spring-w8.html</id><summary type="html">&lt;p&gt;w8課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;w8課程&lt;/p&gt;
 
 
 &lt;h1&gt;將組員各週的網誌合併至分組網誌&lt;/h1&gt;
 &lt;h1&gt;將個人一分鐘的影片報告放到各分組網誌, 說明已經完成的個人與團隊分配任務製作結果.&lt;/h1&gt;
-&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/uq_HI2XQ6JY" title="個人與團隊分配任務製作結果" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>W8</title><link href="./W8.html" rel="alternate"></link><published>2024-04-12T15:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-04-12:./W8.html</id><summary type="html">&lt;p&gt;2024/04/12 上課內容&lt;/p&gt;
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/uq_HI2XQ6JY" title="個人與團隊分配任務製作結果" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>20240329w8 Spring 課程紀錄</title><link href="./41123129_20240412.html" rel="alternate"></link><published>2024-04-12T16:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123129</name></author><id>tag:None,2024-04-12:./41123129_20240412.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程紀錄&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程紀錄&lt;/p&gt;
+
+
+&lt;h1&gt;w8&lt;/h1&gt;
+&lt;p&gt;更新子模組到組別倉儲&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>W8</title><link href="./41123149_W8.html" rel="alternate"></link><published>2024-04-12T15:00:00+08:00</published><updated>2024-05-10T16:16:11+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-04-12:./41123149_W8.html</id><summary type="html">&lt;p&gt;2024/04/12 上課內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/04/12 上課內容&lt;/p&gt;
 
 
-&lt;h1&gt;W8分組任務&lt;/h1&gt;</content><category term="W8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w8課程 41123152</title><link href="./2024-Spring-w8-blog-tutorial-41123152.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-12:./2024-Spring-w8-blog-tutorial-41123152.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w8.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w8.&lt;/p&gt;
-
-
-&lt;h1&gt;今日課程內容&lt;/h1&gt;
-&lt;p&gt;運用OBS嘗試加入部分教學成果總結&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W8</title><link href="./20240412.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123139</name></author><id>tag:None,2024-04-12:./20240412.html</id><summary type="html">&lt;p&gt;2024/04/12第八週網誌內容.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024/04/12第八週網誌內容.&lt;/p&gt;
-
-
-&lt;h1&gt;測試&lt;/h1&gt;
-&lt;p&gt;1.組長叫我隨便更新個東西，測試codespace的東西。&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W8</title><link href="./8.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123122</name></author><id>tag:None,2024-04-12:./8.html</id><summary type="html">&lt;p&gt;W8所做事情&lt;/p&gt;
+&lt;h1&gt;W8分組任務&lt;/h1&gt;</content><category term="W8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W8</title><link href="./41123122_8.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123122</name></author><id>tag:None,2024-04-12:./41123122_8.html</id><summary type="html">&lt;p&gt;W8所做事情&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W8所做事情&lt;/p&gt;
 
 
-&lt;h1&gt;本週放假&lt;/h1&gt;</content><category term="W8"></category><category term="網誌編寫"></category></entry><entry><title>W8</title><link href="./W8.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123134</name></author><id>tag:None,2024-04-12:./W8.html</id><summary type="html">&lt;p&gt;2024/04/12 上課內容&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024/04/12 上課內容&lt;/p&gt;
-
-
-&lt;h1&gt;W8分組任務&lt;/h1&gt;</content><category term="W8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w8</title><link href="./w8.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-04-12:./w8.html</id><summary type="html">&lt;p&gt;w8上課內容.&lt;/p&gt;
+&lt;h1&gt;本週放假&lt;/h1&gt;</content><category term="W8"></category><category term="網誌編寫"></category></entry><entry><title>w8</title><link href="./41123131_w8.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123131</name></author><id>tag:None,2024-04-12:./41123131_w8.html</id><summary type="html">&lt;p&gt;w8上課內容.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;w8上課內容.&lt;/p&gt;
 
 
 &lt;h1&gt;測試&lt;/h1&gt;
-&lt;p&gt;組長進行更新測試&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelicanch"></category></entry><entry><title>W8</title><link href="./8.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-10T09:31:39+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./8.html</id><summary type="html">&lt;p&gt;2024/04/12 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+&lt;p&gt;組長進行更新測試&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelicanch"></category></entry><entry><title>W8</title><link href="./41123134_W8.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123134</name></author><id>tag:None,2024-04-12:./41123134_W8.html</id><summary type="html">&lt;p&gt;2024/04/12 上課內容&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024/04/12 上課內容&lt;/p&gt;
+
+
+&lt;h1&gt;W8分組任務&lt;/h1&gt;</content><category term="W8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W8</title><link href="./41123139_20240412.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>41123139</name></author><id>tag:None,2024-04-12:./41123139_20240412.html</id><summary type="html">&lt;p&gt;2024/04/12第八週網誌內容.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024/04/12第八週網誌內容.&lt;/p&gt;
+
+
+&lt;h1&gt;測試&lt;/h1&gt;
+&lt;p&gt;1.組長叫我隨便更新個東西，測試codespace的東西。&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>w8課程 41123152</title><link href="./41123152_2024-Spring-w8-blog-tutorial-41123152.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-10T16:16:11+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-12:./41123152_2024-Spring-w8-blog-tutorial-41123152.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w8.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w8.&lt;/p&gt;
+
+
+&lt;h1&gt;今日課程內容&lt;/h1&gt;
+&lt;p&gt;運用OBS嘗試加入部分教學成果總結&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W8</title><link href="./41123137_8.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-10T16:16:10+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./41123137_8.html</id><summary type="html">&lt;p&gt;2024/04/12 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/04/12 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
