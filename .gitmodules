@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+[submodule "g3"]
+	path = g3
+	url = https://github.com/mdecd2024/2a-midag3.git
+=======
 [submodule "g10"]
 	path = g10
 	url = https://github.com/mdecd2024/test-ag1.git
+>>>>>>> b5caec5389433aa450a4d2e7cab2064a0ad6ef85
