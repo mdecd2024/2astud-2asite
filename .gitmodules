@@ -1,7 +1,5 @@
 
-
-=======
 [submodule "g10"]
-	path = g10
-	url = https://github.com/mdecd2024/test-ag1.git
->>>>>>> b5caec5389433aa450a4d2e7cab2064a0ad6ef85
+    path = g10
+    url = https://github.com/mdecd2024/test-ag1.git
+
