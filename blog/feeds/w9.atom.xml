@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - w9</title><link href="./" rel="alternate"></link><link href="./feeds/w9.atom.xml" rel="self"></link><id>./</id><updated>2024-05-12T16:00:54+08:00</updated><entry><title>week2 分組</title><link href="./41123117_2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-25T20:00:00+08:00</published><updated>2024-05-12T16:00:54+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-04-25:./41123117_2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;評分.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - w9</title><link href="./" rel="alternate"></link><link href="./feeds/w9.atom.xml" rel="self"></link><id>./</id><updated>2024-05-12T16:56:05+08:00</updated><entry><title>week2 分組</title><link href="./41123117_2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-25T20:00:00+08:00</published><updated>2024-05-12T16:56:04+08:00</updated><author><name>41123117</name></author><id>tag:None,2024-04-25:./41123117_2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;評分.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;評分.&lt;/p&gt;
 
 
@@ -263,7 +263,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w9"></category><category term="評分"></category></entry><entry><title>W9 課程</title><link href="./41136113_2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T19:00:00+08:00</published><updated>2024-05-12T16:00:54+08:00</updated><author><name>41136113(第一組)</name></author><id>tag:None,2024-04-19:./41136113_2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;期末作業(老師講解1)&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w9"></category><category term="評分"></category></entry><entry><title>W9 課程</title><link href="./41136113_2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T19:00:00+08:00</published><updated>2024-05-12T16:56:05+08:00</updated><author><name>41136113(第一組)</name></author><id>tag:None,2024-04-19:./41136113_2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;期末作業(老師講解1)&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;期末作業(老師講解1)&lt;/p&gt;
 
 
@@ -271,11 +271,11 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;h1&gt;W9&lt;/h1&gt;
 &lt;p&gt;1.觀看老師blog內容，了解期末所需要製作內容&lt;/p&gt;
 &lt;p&gt;2.錄製1分鐘開學到期中製作的影片並且上傳&lt;/p&gt;
-&lt;p&gt;連結:https://drive.google.com/file/d/1Bm3IJU4KR3dYuxCmvl-94G4eN23wfQ3r/view?usp=sharing&lt;/p&gt;</content><category term="w9"></category><category term="期末作業(老師講解1)"></category></entry><entry><title>W9</title><link href="./41123145_41123145-W9.html" rel="alternate"></link><published>2024-04-19T17:00:00+08:00</published><updated>2024-05-12T16:00:54+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-04-19:./41123145_41123145-W9.html</id><summary type="html">&lt;p&gt;W9內容&lt;/p&gt;
+&lt;p&gt;連結:https://drive.google.com/file/d/1Bm3IJU4KR3dYuxCmvl-94G4eN23wfQ3r/view?usp=sharing&lt;/p&gt;</content><category term="w9"></category><category term="期末作業(老師講解1)"></category></entry><entry><title>W9</title><link href="./41123145_41123145-W9.html" rel="alternate"></link><published>2024-04-19T17:00:00+08:00</published><updated>2024-05-12T16:56:05+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-04-19:./41123145_41123145-W9.html</id><summary type="html">&lt;p&gt;W9內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W9內容&lt;/p&gt;
 
 &lt;h1&gt;期中自評&lt;/h1&gt;
-&lt;p&gt;自評分數65分&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w9</title><link href="./41023124_2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T15:39:00+08:00</published><updated>2024-05-12T16:00:54+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-19:./41023124_2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;自評分數65分&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w9</title><link href="./41023124_2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T15:39:00+08:00</published><updated>2024-05-12T16:56:02+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-19:./41023124_2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -291,24 +291,24 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;p&gt;相關資料收集與閱讀心得&lt;/p&gt;
 &lt;p&gt;分組期中報告 (&lt;a href="https://www.google.com/search?q=latex+%E6%95%99%E5%AD%B8"&gt;LaTeX&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; pdf) 與簡報影片 (&lt;a href="https://obsproject.com/"&gt;OBS&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; mp4) 佔 20%&lt;/p&gt;
 &lt;p&gt;分組期末報告 (&lt;a href="https://www.google.com/search?q=latex+%E6%95%99%E5%AD%B8"&gt;LaTeX&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; pdf) 與簡報影片 (&lt;a href="https://obsproject.com/"&gt;OBS&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; mp4) 佔 40%&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>W9</title><link href="./41123124_cd2024-2a-w9.html" rel="alternate"></link><published>2024-04-19T14:00:00+08:00</published><updated>2024-05-12T16:00:54+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-04-19:./41123124_cd2024-2a-w9.html</id><summary type="html">&lt;p&gt;2024 Spring 第九週 網誌&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>W9</title><link href="./41123124_cd2024-2a-w9.html" rel="alternate"></link><published>2024-04-19T14:00:00+08:00</published><updated>2024-05-12T16:56:04+08:00</updated><author><name>Probe</name></author><id>tag:None,2024-04-19:./41123124_cd2024-2a-w9.html</id><summary type="html">&lt;p&gt;2024 Spring 第九週 網誌&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 第九週 網誌&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
 &lt;h2&gt;w9&lt;/h2&gt;
 &lt;p&gt;期末考週&lt;/p&gt;
-&lt;p&gt;自評&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫﹐期中考"></category></entry><entry><title>w9課程網誌</title><link href="./41123142_w9.html" rel="alternate"></link><published>2024-04-19T13:20:00+08:00</published><updated>2024-05-12T16:00:54+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-04-19:./41123142_w9.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
+&lt;p&gt;自評&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫﹐期中考"></category></entry><entry><title>w9課程網誌</title><link href="./41123142_w9.html" rel="alternate"></link><published>2024-04-19T13:20:00+08:00</published><updated>2024-05-12T16:56:05+08:00</updated><author><name>41123142</name></author><id>tag:None,2024-04-19:./41123142_w9.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程網誌.&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統9&lt;/h1&gt;
-&lt;p&gt;期中成績自評 &lt;/p&gt;</content><category term="w9"></category><category term="w9網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring w8</title><link href="./41123148_2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T13:20:00+08:00</published><updated>2024-05-12T16:00:54+08:00</updated><author><name>41123148</name></author><id>tag:None,2024-04-19:./41123148_2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 課程日誌w9 期中&lt;/p&gt;
+&lt;p&gt;期中成績自評 &lt;/p&gt;</content><category term="w9"></category><category term="w9網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring w8</title><link href="./41123148_2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T13:20:00+08:00</published><updated>2024-05-12T16:56:05+08:00</updated><author><name>41123148</name></author><id>tag:None,2024-04-19:./41123148_2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 課程日誌w9 期中&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 課程日誌w9 期中&lt;/p&gt;
 
 
 &lt;h1&gt;分組影片報告&lt;/h1&gt;
-&lt;p&gt;每位組員各一分鐘的影片報告放到各分組網誌, 說明已經完成的個人與團隊分配任務製作結果.&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>2024 w9</title><link href="./41123126_2024-Spring-w9-blog-tutorial%2041123126.html" rel="alternate"></link><published>2024-04-19T13:00:00+08:00</published><updated>2024-05-12T16:00:54+08:00</updated><author><name>41123126</name></author><id>tag:None,2024-04-19:./41123126_2024-Spring-w9-blog-tutorial 41123126.html</id><summary type="html">&lt;p&gt;期中分數&lt;/p&gt;
+&lt;p&gt;每位組員各一分鐘的影片報告放到各分組網誌, 說明已經完成的個人與團隊分配任務製作結果.&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>2024 w9</title><link href="./41123126_2024-Spring-w9-blog-tutorial%2041123126.html" rel="alternate"></link><published>2024-04-19T13:00:00+08:00</published><updated>2024-05-12T16:56:04+08:00</updated><author><name>41123126</name></author><id>tag:None,2024-04-19:./41123126_2024-Spring-w9-blog-tutorial 41123126.html</id><summary type="html">&lt;p&gt;期中分數&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;期中分數&lt;/p&gt;
 
 
@@ -572,7 +572,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>期中自評</title><link href="./41123111_41123111-2024-week-9-%E7%B6%B2%E8%AA%8C%F0%9F%98%81.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-12T16:00:54+08:00</updated><author><name>41123111</name></author><id>tag:None,2024-04-19:./41123111_41123111-2024-week-9-網誌😁.html</id><content type="html"></content><category term="w9"></category><category term="期中自評"></category></entry><entry><title>w9網誌</title><link href="./41123120_w9%E7%B6%B2%E8%AA%8C.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-12T16:00:54+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-19:./41123120_w9網誌.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>期中自評</title><link href="./41123111_41123111-2024-week-9-%E7%B6%B2%E8%AA%8C%F0%9F%98%81.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-12T16:56:04+08:00</updated><author><name>41123111</name></author><id>tag:None,2024-04-19:./41123111_41123111-2024-week-9-網誌😁.html</id><content type="html"></content><category term="w9"></category><category term="期中自評"></category></entry><entry><title>w9網誌</title><link href="./41123120_w9%E7%B6%B2%E8%AA%8C.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-12T16:56:04+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-19:./41123120_w9網誌.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -838,12 +838,12 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>W9課程內容</title><link href="./41123143_w9.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-12T16:00:54+08:00</updated><author><name>41123143</name></author><id>tag:None,2024-04-19:./41123143_w9.html</id><summary type="html">&lt;p&gt;期中考週&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>W9課程內容</title><link href="./41123143_w9.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-12T16:56:05+08:00</updated><author><name>41123143</name></author><id>tag:None,2024-04-19:./41123143_w9.html</id><summary type="html">&lt;p&gt;期中考週&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;期中考週&lt;/p&gt;
 
 
 &lt;p&gt;把前半學期該做的事項弄好
-這週製作&lt;a href="https://youtu.be/8GchSL6DanU?si=LOV35rRgSa0PCgcL"&gt;期中影片&lt;/a&gt;&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>w9課程 41123152</title><link href="./41123152_2024-Spring-w9-blog-tutorial-41123152.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-12T16:00:54+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-19:./41123152_2024-Spring-w9-blog-tutorial-41123152.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w9.&lt;/p&gt;
+這週製作&lt;a href="https://youtu.be/8GchSL6DanU?si=LOV35rRgSa0PCgcL"&gt;期中影片&lt;/a&gt;&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>w9課程 41123152</title><link href="./41123152_2024-Spring-w9-blog-tutorial-41123152.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-12T16:56:05+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-19:./41123152_2024-Spring-w9-blog-tutorial-41123152.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w9.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程w9.&lt;/p&gt;
 
 
