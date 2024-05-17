@@ -1,3 +1,7 @@
+將特定倉儲設為某一倉儲的子模組, 假設要將 https://github.com/41123130/cd2024.git 設為子模組, 且用 41123130 作為子模組的目錄名稱, 其指令為:
+
+git submodule add https://github.com/41123130/cd2024.git 41123130
+
 遞迴取得所有子模組以及子模組下的子模組對應資料, 以目前版本中所登錄的子模組中的版次為下載標的
 
 git submodule update --init --recursive
