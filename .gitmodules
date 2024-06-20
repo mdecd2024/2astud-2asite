@@ -1,41 +1,27 @@
-<<<<<<< HEAD
-[submodule "g5"]
-	path = g5
-	url = https://github.com/mdecd2024/2a-midag5
-=======
-
+[submodule "g1"]
+		path = g1
+		url = https://github.com/mdecd2024/2a-midag1.git
+[submodule "g2"]
+		path = g2
+		url = https://github.com/mdecd2024/2a-midag2.git
 [submodule "g3"]
 		path = g3
 		url = https://github.com/mdecd2024/2a-midag3.git
-
+[submodule "g4"]
+		path = g4
+		url = https://github.com/mdecd2024/2a-midag4.git
+[submodule "g5"]
+		path = g5
+		url = https://github.com/mdecd2024/2a-midag5
+[submodule "g6"]
+		path = g6
+		url = https://github.com/mdecd2024/2a-midag6.git
+[submodule "g7"]
+		path = g7
+		url = https://github.com/mdecd2024/2a-midag7.git
+[submodule "g8"]
+		path = g8
+		url = https://github.com/mdecd2024/2a-midag8.git
 [submodule "g10"]
 		path = g10
 		url = https://github.com/mdecd2024/test-ag1.git
-[submodule "g10"]
-	path = g10
-	url = https://github.com/mdecd2024/test-ag1.git
-[submodule "g1"]
-	path = g1
-	url = https://github.com/mdecd2024/2a-midag1.git
-[submodule "g2"]
-    path = g2
-    url = https://github.com/mdecd2024/2a-midag2.git
-[submodule "g4"]
-    path = g4
-    url = https://github.com/mdecd2024/2a-midag4.git
-[submodule "g5"]
-    path = g5
-    url = https://github.com/mdecd2024/2a-midag5.git
-[submodule "g6"]
-	path = g6
-	url = https://github.com/mdecd2024/2a-midag6.git
-[submodule "g7"]
-	path = g7
-	url = https://github.com/mdecd2024/2a-midag7.git
-[submodule "g8"]
-    path = g8
-    url = https://github.com/mdecd2024/2a-midag8.git
-[submodule "g3"]
-	path = g3
-	url = https://github.com/mdecd2024/2a-midag3.git
->>>>>>> 15fc13b022041c56e7ce8858f19cfe3594c9143a
